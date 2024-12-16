@@ -1,0 +1,3 @@
+title: $:/config/FileSystemPaths
+
+[in-tagtree-of[个人]]:and[search-replace:g[/],[_]search-replace:g[:],[_]addprefix[/]addprefix[MyTGwiki]addprefix[/]addprefix[subwiki]]
